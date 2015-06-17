@@ -1,0 +1,2 @@
+C:\Users\JinJaaR\documents\visual studio 2013\Projects\Inheritance-And-Abstraction\03.CompanyHierarhy\bin\Debug\03.CompanyHierarhy.exe.config
+C:\Users\JinJaaR\documents\visual studio 2013\Projects\Inheritance-And-Abstraction\03.CompanyHierarhy\obj\Debug\03.CompanyHierarhy.csprojResolveAssemblyReference.cache

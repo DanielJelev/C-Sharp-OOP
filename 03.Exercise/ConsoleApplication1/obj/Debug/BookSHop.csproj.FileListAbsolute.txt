@@ -1,0 +1,6 @@
+c:\users\jinjaar\documents\visual studio 2013\Projects\02.Exercise\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\jinjaar\documents\visual studio 2013\Projects\02.Exercise\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\jinjaar\documents\visual studio 2013\Projects\02.Exercise\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\jinjaar\documents\visual studio 2013\Projects\02.Exercise\ConsoleApplication1\obj\Debug\BookSHop.csprojResolveAssemblyReference.cache
+c:\users\jinjaar\documents\visual studio 2013\Projects\02.Exercise\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\jinjaar\documents\visual studio 2013\Projects\02.Exercise\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
